@@ -64,3 +64,43 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+.motto {
+	display: inline-block;
+}
+
+.navigation {
+	display: inline-block;
+}
+
+.top-middle {
+	display: inline-block;
+	width: 20;
+	height: 80;
+}
+
+.button {
+	border: black;
+	border-style: solid;
+}
+
+
+
+.one-middle {
+	display: inline;
+	width: 48%;
+	height: 52%;
+
+}
+
+.second-middle {
+	display: inline;
+	
+}
+
+
+.copyright {
+	display: block;
+	text-align: center;
+}
