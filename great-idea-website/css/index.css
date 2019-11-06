@@ -76,8 +76,8 @@ h1, h2, h3, h4, h5 {
 
 .top-middle {
 	display: inline-block;
-	width: 20;
-	height: 80;
+	float: left;
+	width: 50%;
 }
 
 .button {
@@ -104,3 +104,4 @@ h1, h2, h3, h4, h5 {
 	display: block;
 	text-align: center;
 }
+
